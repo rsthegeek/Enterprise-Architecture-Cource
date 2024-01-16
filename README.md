@@ -25,7 +25,7 @@
 	- Architecure Definition
 - [Digital Transformation](./digital_transformation.md)
 	- Iran's DT Framework
-	- Capgemni
+	- Capgemini
 	- Delloitte
 	- Cognizant
 	- Gartner
