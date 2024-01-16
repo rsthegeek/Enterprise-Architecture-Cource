@@ -96,6 +96,8 @@ supports that goal
 - Data Context
 - Data Sharing
 
+![img](img/data_evolution.png)
+
 #### ARM (Application Reference Model)
 ![img](img/feaf-arm.png)
 
