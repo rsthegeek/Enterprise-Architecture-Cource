@@ -1,4 +1,6 @@
 # FEAF v2 (Federal Enterprise Architecture Framework)
+![img](img/feaf.png)
+
 - The real value is to facilitate planning for the future in a way that transforms the government more efficiently.
 - Scope levels of the Federal Architecture (INFSASSA)
 	1. International
