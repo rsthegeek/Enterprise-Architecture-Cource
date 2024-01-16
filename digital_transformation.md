@@ -15,7 +15,7 @@
 ## Iran's DT Framework
 ![img](img/iran_dt.jpg)
 
-## Capgemni
+## Capgemini
 ![img](img/digital/cg_13.png)
 
 ![img](img/digital/cg_14.png)
