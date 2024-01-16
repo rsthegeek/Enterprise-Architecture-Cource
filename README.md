@@ -1,9 +1,9 @@
 # Enterprise Architecture
 
 ## Table of content
-- [ZEAF (Zachman Enterprise Architecture Framework)](./blob/main/zeaf.md)
+- [ZEAF (Zachman Enterprise Architecture Framework)](./zeaf.md)
 
-- [FEAF v2 (Federal Enterprise Architecture Framework)]()
+- [FEAF v2 (Federal Enterprise Architecture Framework)](./feaf.md)
 	- CPM (Collaborative Planning Methodology)
 	- CRM (Consolidated Reference Model)
 		- PRM (Performace Reference Model)
@@ -12,7 +12,7 @@
 		- ARM (Application Reference Model)
 		- IRM (Infrastructure Reference Model)
 		- SRM (Security Reference Model)
-- [TOGAF (The Open Group Architecture Framework)]()
+- [TOGAF (The Open Group Architecture Framework)](./togaf.md)
 	- ADM (Architecture Development Methodology)
 		- ADM Hierarchy
 		- ADM Versioning
@@ -23,7 +23,7 @@
 	- Artifacts assosiation with metamodel
 	- Architecture Continuum
 	- Architecure Definition
-- [Digital Transformation]()
+- [Digital Transformation](./digital_transformation.md)
 	- Iran's DT Framework
 	- Capgemni
 	- Delloitte
