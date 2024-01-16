@@ -1,7 +1,7 @@
 # Enterprise Architecture
 
 ## Table of content
-- [ZEAF (Zachman Enterprise Architecture Framework)]()
+- [ZEAF (Zachman Enterprise Architecture Framework)](./blob/main/zeaf.md)
 
 - [FEAF v2 (Federal Enterprise Architecture Framework)]()
 	- CPM (Collaborative Planning Methodology)
